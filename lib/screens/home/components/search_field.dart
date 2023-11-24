@@ -20,7 +20,7 @@ class SearchField extends StatelessWidget {
           border: searchOutlineInputBorder,
           focusedBorder: searchOutlineInputBorder,
           enabledBorder: searchOutlineInputBorder,
-          hintText: "Search product",
+          hintText: "Tìm kiếm sản phẩm",
           prefixIcon: const Icon(Icons.search),
         ),
       ),
