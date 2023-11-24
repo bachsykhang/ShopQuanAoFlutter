@@ -21,7 +21,7 @@ class LoginSuccessScreen extends StatelessWidget {
           ),
           const SizedBox(height: 16),
           const Text(
-            "Login Success",
+            "Đăng nhập thành công!",
             style: TextStyle(
               fontSize: 30,
               fontWeight: FontWeight.bold,
@@ -35,7 +35,7 @@ class LoginSuccessScreen extends StatelessWidget {
               onPressed: () {
                 Navigator.pushNamed(context, InitScreen.routeName);
               },
-              child: const Text("Back to home"),
+              child: const Text("Trở về cửa hàng"),
             ),
           ),
           const Spacer(),
