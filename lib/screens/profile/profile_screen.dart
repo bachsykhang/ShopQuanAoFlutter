@@ -20,27 +20,27 @@ class ProfileScreen extends StatelessWidget {
             const ProfilePic(),
             const SizedBox(height: 20),
             ProfileMenu(
-              text: "My Account",
+              text: "Tài khoản của tôi",
               icon: "assets/icons/User Icon.svg",
               press: () => {},
             ),
             ProfileMenu(
-              text: "Notifications",
+              text: "Thông báo",
               icon: "assets/icons/Bell.svg",
               press: () {},
             ),
             ProfileMenu(
-              text: "Settings",
+              text: "Cài đặt",
               icon: "assets/icons/Settings.svg",
               press: () {},
             ),
             ProfileMenu(
-              text: "Help Center",
+              text: "Giúp đỡ",
               icon: "assets/icons/Question mark.svg",
               press: () {},
             ),
             ProfileMenu(
-              text: "Log Out",
+              text: "Đăng xuất",
               icon: "assets/icons/Log out.svg",
               press: () {},
             ),

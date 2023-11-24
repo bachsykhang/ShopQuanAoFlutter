@@ -38,7 +38,7 @@ List<Product> demoProducts = [
       const Color(0xFFDECB9C),
       Colors.white,
     ],
-    title: "Wireless Controller for PS4™",
+    title: "Bộ điều khiển không dây cho PS4™",
     price: 64.99,
     description: description,
     rating: 4.8,
@@ -56,7 +56,7 @@ List<Product> demoProducts = [
       const Color(0xFFDECB9C),
       Colors.white,
     ],
-    title: "Nike Sport White - Man Pant",
+    title: "Nike Sport White - Quần Nam",
     price: 50.5,
     description: description,
     rating: 4.1,
@@ -73,7 +73,7 @@ List<Product> demoProducts = [
       const Color(0xFFDECB9C),
       Colors.white,
     ],
-    title: "Gloves XC Omega - Polygon",
+    title: "Găng tay XC Omega - Polygon",
     price: 36.55,
     description: description,
     rating: 4.1,
@@ -173,4 +173,4 @@ List<Product> demoProducts = [
 ];
 
 const String description =
-    "Wireless Controller for PS4™ gives you what you want in your gaming from over precision control your games to sharing …";
+    "Bộ điều khiển không dây dành cho PS4™ mang đến cho bạn những gì bạn muốn khi chơi game, từ điều khiển trò chơi có độ chính xác cao đến chia sẻ…";
